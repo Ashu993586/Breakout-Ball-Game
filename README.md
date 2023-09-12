@@ -12,3 +12,4 @@ At the top right is the score. Every brick add 5 points. After winning or losing
 Every time you play the rows and the columns of the bricks (the amount of the bricks) will be random.
 
 For more information about how the code works, there are lots of comments in the .java files to help you understand everything and follow along with ease!
+![Screenshot 2023-09-12 232959](https://github.com/Ashu993586/Breakout-Ball-Game/assets/128889803/adc7457d-5052-4a20-9490-b739fdeefcda)
